@@ -524,6 +524,7 @@ $lang = array(
     'web'                                          => 'Web',
     'web_address'                                  => 'Web Address',
     'welcome'                                      => 'Welcome',
+    'wrong_passwordreset_token'                    => 'Enknown Email',
     'year'                                         => 'Year',
     'year_prefix'                                  => 'Year Prefix',
     'years'                                        => 'Years',
